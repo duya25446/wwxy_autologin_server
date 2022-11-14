@@ -1,0 +1,2 @@
+F:\c#\server_tcp\bin\Release\net6.0\publish\win-x64\server_tcp.pdb
+F:\c#\server_tcp\bin\Release\net6.0\publish\win-x64\server_tcp.exe
