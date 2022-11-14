@@ -33,7 +33,7 @@ namespace server
                     await using var networkStream = client.GetStream();
                     var sr = new StreamReader(networkStream);
                     var sw = new StreamWriter(networkStream, Encoding.ASCII);
-                    await sw.WriteLineAsync($"Welcome Duya25446 Server");
+                    await sw.WriteLineAsync($"Welcome Duya25446 Server,请用户们尽快联系我获取新版本应用，因为服务器的更换前代版本将会失去支持变得无法使用");
                     await sw.FlushAsync();
                     var buffer = new[] { ' ' };
                     IDall = await sr.ReadLineAsync();

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\c#\\server_tcp\\server_tcp.csproj": {}
+    "D:\\Code\\wwxy_autologin_server\\server_tcp.csproj": {}
   },
   "projects": {
-    "F:\\c#\\server_tcp\\server_tcp.csproj": {
+    "D:\\Code\\wwxy_autologin_server\\server_tcp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\c#\\server_tcp\\server_tcp.csproj",
+        "projectUniqueName": "D:\\Code\\wwxy_autologin_server\\server_tcp.csproj",
         "projectName": "server_tcp",
-        "projectPath": "F:\\c#\\server_tcp\\server_tcp.csproj",
+        "projectPath": "D:\\Code\\wwxy_autologin_server\\server_tcp.csproj",
         "packagesPath": "C:\\Users\\unsc\\.nuget\\packages\\",
-        "outputPath": "F:\\c#\\server_tcp\\obj\\",
+        "outputPath": "D:\\Code\\wwxy_autologin_server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visual studio tool\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\unsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
